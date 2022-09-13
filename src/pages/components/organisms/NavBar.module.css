@@ -1,0 +1,30 @@
+.navBox {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid black;
+}
+.icon {
+}
+
+.ul {
+  margin: 10px;
+}
+
+.li {
+  display: inline;
+  margin: 5px;
+  font-size: 30px;
+  float: bottom;
+}
+
+.searchBox {
+  margin-right: 5px;
+  display: inline;
+  float: right;
+  vertical-align: text-bottom;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
